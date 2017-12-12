@@ -1,0 +1,9 @@
+indim:129
+outdim:25
+activation:relu relu relu linear
+hiddenlayers:229 229 229 25
+loss:mse
+nbepochs:200
+batchsize:64
+normalizex:0
+normalizey:0

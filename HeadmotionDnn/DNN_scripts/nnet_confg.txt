@@ -1,0 +1,9 @@
+indim:18
+outdim:18
+activation:tanh tanh tanh linear
+hiddenlayers:100 100 100 18
+loss:mse
+nbepochs:10
+batchsize:64
+normalizex:0
+normalizey:0
